@@ -43,7 +43,8 @@ header {
     .con .nav .left span {
       display: block; }
     .con .nav .right span {
-      display: block; }
+      display: block;
+      text-align: center; }
 
 .search-btn {
   width: 70%;
